@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 24995191e192c2d4c94bdc1cb8592d47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Temperature: {fileID: 11400000, guid: 31a0c10f5aaa3c84682ac411e8a77d83, type: 2}
+  - minTemp: {fileID: 11400000, guid: 1851354766b8d754387b07814300b4e3, type: 2}
+  - maxTemp: {fileID: 11400000, guid: f6d4054ee7998ec4c9e8a3514c39db57, type: 2}
+  - WindowsOpen: {fileID: 11400000, guid: 6e0f299c173b13549a7383c5d0af1c1e, type: 2}
+  - currentStation: {fileID: 11400000, guid: ea555fe6606a81848bf4700ea2fe53d5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

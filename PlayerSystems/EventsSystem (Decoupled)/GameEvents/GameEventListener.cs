@@ -1,0 +1,25 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+public class GameEventListener : MonoBehaviour
+{
+    // GameEvent to listen to
+    public GameEvent Event;
+    // Response when GameEvent is fired
+    public UnityEvent Response;
+
+    private void OnEnable() {
+        Event.RegisterListener(this);
+    }
+
+    private void OnDisable() {
+        Event.UnRegisterListener(this);
+    }
+
+    public void OnEventRaised() {
+        Response.Invoke();
+    }
+
+}

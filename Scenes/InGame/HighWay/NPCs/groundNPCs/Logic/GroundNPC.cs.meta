@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c62da1f5c5903164cb8b3537a29cc7cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - type: {fileID: 11400000, guid: 82bac6e0da819d345a937ec376217791, type: 2}
+  - carTemperature: {fileID: 11400000, guid: 31a0c10f5aaa3c84682ac411e8a77d83, type: 2}
+  - carStation: {fileID: 11400000, guid: ea555fe6606a81848bf4700ea2fe53d5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

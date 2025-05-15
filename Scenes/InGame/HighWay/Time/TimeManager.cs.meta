@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fae6e831e0f98e4fafd099d147c7f48
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameHour: {fileID: 11400000, guid: 656f6d145a9cb994aa9089ce71d3f265, type: 2}
+  - GameMinutes: {fileID: 11400000, guid: 54af9e3143493e246bb6cc058390e163, type: 2}
+  - RealMinutes: {fileID: 11400000, guid: 8bc78959a84df534286b0f6c15f543de, type: 2}
+  - RealSeconds: {fileID: 11400000, guid: 7b5383b57285c0b4a9e867624c6707ec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

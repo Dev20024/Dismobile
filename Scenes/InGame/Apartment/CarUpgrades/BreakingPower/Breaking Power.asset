@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e35f5cbf097f3439804100f274f2ca, type: 3}
+  m_Name: Breaking Power
+  m_EditorClassIdentifier: 
+  Name: Breaking Power
+  BaseStat: 500
+  Stat: 750
+  Tier: 0
+  tiers:
+  - {fileID: 11400000, guid: 025daf685b07c1440bad50b9c57dee99, type: 2}
+  - {fileID: 11400000, guid: c400a183c658ebf47a7b50e596293db0, type: 2}
+  - {fileID: 11400000, guid: 17e497abd6813e74c8b603a3db8822b1, type: 2}
+  currentTier: {fileID: 0}

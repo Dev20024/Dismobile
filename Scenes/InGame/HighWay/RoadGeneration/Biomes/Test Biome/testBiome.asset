@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7875d6b047e09349a7da8dbabda0045, type: 3}
+  m_Name: testBiome
+  m_EditorClassIdentifier: 
+  roads:
+  - {fileID: 1229097053553829696, guid: 3c2291e4e32dd414487fb90dfb005183, type: 3}
+  - {fileID: 2012540320155265807, guid: 49577fae3eea4774a9f3a9463967ef62, type: 3}
+  buildings:
+  - {fileID: 4768803367018326568, guid: ab71427b19ee4684daffb73319f0b3e0, type: 3}
+  - {fileID: 6236995431158178719, guid: 81952af0e0ea5f342b270f7295d0da27, type: 3}
+  - {fileID: 5761865389015610993, guid: a15f4c110952a3541b51a2fe36617c25, type: 3}
+  walkingNPCSpawnChances: {fileID: 11400000, guid: fced80004a770fd42a55ba322ce23381, type: 2}
+  rarity: 50
+  length: 20

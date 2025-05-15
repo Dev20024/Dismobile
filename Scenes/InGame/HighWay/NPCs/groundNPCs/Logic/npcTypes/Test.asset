@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79bd88242372cd418b8223c9cf7321a, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  species: 0
+  characterModel: {fileID: 4035805305640630874, guid: 49184c5a6c18f3843b289bd291eee085, type: 3}
+  NamePool: []
+  dialoguePool: {fileID: 4900000, guid: a3f044b3961753d45904bd72cb3a8b4d, type: 3}
+  temperature: 69
+  stationPreference: 0
+  prefersWindowsOpen: 0

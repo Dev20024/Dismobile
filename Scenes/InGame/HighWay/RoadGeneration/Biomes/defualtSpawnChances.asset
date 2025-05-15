@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c93c858f5aa8f49b2c3e77f6c6141f, type: 3}
+  m_Name: defualtSpawnChances
+  m_EditorClassIdentifier: 
+  spawnChances:
+  - weight: 80
+    type: {fileID: 11400000, guid: 82bac6e0da819d345a937ec376217791, type: 2}
+  - weight: 20
+    type: {fileID: 11400000, guid: 480bdcc74ae6a244f8987913d1706228, type: 2}

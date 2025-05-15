@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 76486598f28fb4541bafe5772056db65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UpgradeUISlotTemplate: {fileID: 272648668080331768, guid: 182b9e2173a9bf94b93781800ddf8a6c, type: 3}
+  - BaseUpgradesUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
